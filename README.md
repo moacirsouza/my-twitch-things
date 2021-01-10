@@ -1,2 +1,7 @@
-# my-twitch-things
-Resources I use in my (not-so-frequent) Twtich streams
+# My Twitch Things
+
+Resources I use in my (not-so-frequent) Twtich streams.
+
+## Stand-By screen
+
+The screen used when I have to be AfK for a while.

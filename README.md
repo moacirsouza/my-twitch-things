@@ -2,6 +2,6 @@
 
 Resources I use in my (not-so-frequent) Twtich streams.
 
-## Stand-By screen
+## Wait Screen
 
-The screen used when I have to be AfK for a while.
+The screen used when I have to be AfK for a while. Access it [here](wait-screen/README.md).
